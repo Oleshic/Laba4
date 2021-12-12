@@ -7,25 +7,25 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <head>
 <meta http-equiv=Content-Type content="text/html; charset=us-ascii">
 <meta name=ProgId content=Word.Document>
-<meta name=Generator content="Microsoft Word 14">
-<meta name=Originator content="Microsoft Word 14">
+<meta name=Generator content="Microsoft Word 12">
+<meta name=Originator content="Microsoft Word 12">
 <link rel=File-List href="README.files/filelist.xml">
 <!--[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Author>Oleg</o:Author>
   <o:Template>Normal</o:Template>
-  <o:LastAuthor>Oleg</o:LastAuthor>
-  <o:Revision>6</o:Revision>
-  <o:TotalTime>1</o:TotalTime>
+  <o:LastAuthor>Sk1FFa Ver1g0</o:LastAuthor>
+  <o:Revision>7</o:Revision>
+  <o:TotalTime>2</o:TotalTime>
   <o:Created>2021-12-12T14:48:00Z</o:Created>
-  <o:LastSaved>2021-12-12T14:55:00Z</o:LastSaved>
+  <o:LastSaved>2021-12-12T15:00:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>2</o:Words>
-  <o:Characters>13</o:Characters>
+  <o:Words>4</o:Words>
+  <o:Characters>25</o:Characters>
   <o:Lines>1</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>14</o:CharactersWithSpaces>
-  <o:Version>14.00</o:Version>
+  <o:CharactersWithSpaces>28</o:CharactersWithSpaces>
+  <o:Version>12.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
@@ -65,7 +65,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <m:mathPr>
    <m:mathFont m:val="Cambria Math"/>
    <m:brkBin m:val="before"/>
-   <m:brkBinSub m:val="&#45;-"/>
+   <m:brkBinSub m:val="--"/>
    <m:smallFrac m:val="off"/>
    <m:dispDef/>
    <m:lMargin m:val="0"/>
@@ -334,6 +334,15 @@ xmlns="http://www.w3.org/TR/REC-html40">
 </xml><![endif]-->
 <style>
 <!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:1;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:0 0 0 0 0 0;}
  /* Style Definitions */
  p.MsoNormal, li.MsoNormal, div.MsoNormal
 	{mso-style-unhide:no;
@@ -367,14 +376,14 @@ span.SpellE
 	font-size:10.0pt;
 	mso-ansi-font-size:10.0pt;
 	mso-bidi-font-size:10.0pt;}
-@page WordSection1
+@page Section1
 	{size:595.3pt 841.9pt;
 	margin:2.0cm 42.5pt 2.0cm 3.0cm;
 	mso-header-margin:35.4pt;
 	mso-footer-margin:35.4pt;
 	mso-paper-source:0;}
-div.WordSection1
-	{page:WordSection1;}
+div.Section1
+	{page:Section1;}
 -->
 </style>
 <!--[if gte mso 10]>
@@ -386,6 +395,7 @@ div.WordSection1
 	mso-tstyle-colband-size:0;
 	mso-style-noshow:yes;
 	mso-style-priority:99;
+	mso-style-qformat:yes;
 	mso-style-parent:"";
 	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
 	mso-para-margin:0cm;
@@ -395,7 +405,7 @@ div.WordSection1
 	font-family:"Times New Roman","serif";}
 </style>
 <![endif]--><!--[if gte mso 9]><xml>
- <o:shapedefaults v:ext="edit" spidmax="1026"/>
+ <o:shapedefaults v:ext="edit" spidmax="2050"/>
 </xml><![endif]--><!--[if gte mso 9]><xml>
  <o:shapelayout v:ext="edit">
   <o:idmap v:ext="edit" data="1"/>
@@ -404,11 +414,15 @@ div.WordSection1
 
 <body lang=RU style='tab-interval:35.4pt'>
 
-<div class=WordSection1>
+<div class=Section1>
+
+<p><span lang=EN-US style='mso-ansi-language:EN-US'># Laba4<o:p></o:p></span></p>
 
 <p><span class=SpellE>&#1044;&#1091;&#1088;&#1072;&#1095;&#1105;&#1082;</span>?</p>
 
 <p>-&#1044;&#1072;&#8230;</p>
+
+<p><span class=SpellE>&#1087;&#1080;&#1079;&#1076;&#1072;</span></p>
 
 <p><o:p>&nbsp;</o:p></p>
 
